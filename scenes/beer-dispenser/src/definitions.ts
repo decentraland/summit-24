@@ -4,6 +4,7 @@ import { engine, Schemas } from '@dcl/sdk/ecs'
  * Types
  */
 
+
 export enum BeerType {
   NONE,
   RED,

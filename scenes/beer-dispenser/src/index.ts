@@ -15,6 +15,7 @@ import { tapPumpSystem } from './modules/tap'
 import { setupUi } from './ui'
 import { syncEntity } from '@dcl/sdk/network'
 
+
 export function main() {
   // Create tables
   const tables = engine.addEntity()

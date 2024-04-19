@@ -17,6 +17,8 @@ import { syncEntity } from '@dcl/sdk/network'
 
 
 export function main() {
+
+
   // Create tables
   const tables = engine.addEntity()
   Transform.create(tables, {
@@ -71,6 +73,9 @@ export function main() {
   })
   Transform.create(dispenserEntity, {
     position: Vector3.create(8, 1.25, 7.5)
+
+
+
   })
 
   // Create taps
@@ -93,6 +98,12 @@ export function main() {
   engine.addSystem(pickingGlassSystem)
   engine.addSystem(tapPumpSystem)
 
+
+
   // UI with GitHub link
   setupUi()
+
+
+
+
 }

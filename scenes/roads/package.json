@@ -1,5 +1,5 @@
 {
-  "name": "dcl-project",
+  "name": "roads",
   "version": "1.0.0",
   "description": "SDK7 Template scene",
   "scripts": {
@@ -10,8 +10,8 @@
     "upgrade-sdk:next": "npm install --save-dev @dcl/sdk@next"
   },
   "devDependencies": {
-    "@dcl/asset-packs": "^1.17.0",
-    "@dcl/js-runtime": "7.4.21",
+    "@dcl/asset-packs": "^1.18.1",
+    "@dcl/js-runtime": "7.4.15",
     "@dcl/sdk": "latest"
   },
   "engines": {

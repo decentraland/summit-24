@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "scenes/roads"
+    },
+    {
       "path": "scenes/piano-floor"
     },
     {

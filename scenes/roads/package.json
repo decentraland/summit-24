@@ -1,7 +1,7 @@
 {
   "name": "roads",
   "version": "1.0.0",
-  "description": "SDK7 Template scene",
+  "description": "Road of Summit City",
   "scripts": {
     "start": "sdk-commands start",
     "deploy": "sdk-commands deploy",
@@ -10,8 +10,8 @@
     "upgrade-sdk:next": "npm install --save-dev @dcl/sdk@next"
   },
   "devDependencies": {
-    "@dcl/asset-packs": "^1.18.1",
-    "@dcl/js-runtime": "7.4.15",
+    "@dcl/asset-packs": "^1.17.0",
+    "@dcl/js-runtime": "7.4.21",
     "@dcl/sdk": "latest"
   },
   "engines": {

@@ -1,0 +1,56 @@
+{
+	"ecs7": true,
+	"runtimeVersion": "7",
+	"display": {
+		"title": "mateverse",
+		"favicon": "favicon_asset",
+		"description": "",
+		"navmapThumbnail": "assets/scene/thumbnail.png"
+	},
+	"contact": {
+		"name": "author-name",
+		"email": ""
+	},
+	"owner": "",
+	"scene": {
+		"parcels": [
+			"1,9",
+			"1,10",
+			"1,11",
+			"2,9",
+			"2,10",
+			"2,11",
+			"3,9",
+			"3,10",
+			"3,11"
+		]
+	},
+	"requiredPermissions": [],
+	"main": "bin/game.js",
+	"tags": [],
+	"spawnPoints": [
+		{
+			"name": "spawn1",
+			"default": true,
+			"position": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			},
+			"cameraTarget": {
+				"x": 8,
+				"y": 1,
+				"z": 8
+			}
+		}
+	],
+	"name": "mateverse",
+	"worldConfiguration": {
+		"name": "pejo.dcl.eth"
+	},
+	"featureToggles": {
+		"voiceChat": "enabled",
+		"portableExperiences": "enabled"
+	},
+	"rating": "T"
+}

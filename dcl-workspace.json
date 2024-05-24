@@ -4,13 +4,7 @@
       "path": "scenes/roads"
     },
     {
-      "path": "scenes/piano-floor"
-    },
-    {
-      "path": "scenes/beer-dispenser"
-    },
-    {
-      "path": "scenes/0,0-cube-spawner"
+      "path": "scenes/head-holders"
     }
   ]
 }

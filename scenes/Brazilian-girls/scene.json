@@ -1,0 +1,34 @@
+{
+  "contact": { "name": "0x8354c53123f26c1b5008a7920e605f6da0af53b8", "email": "" },
+  "default": {
+    "display": { "title": "interactive-text", "favicon": "favicon_asset" },
+    "owner": "",
+    "contact": { "name": "0x8354c53123f26c1b5008a7920e605f6da0af53b8", "email": "" },
+    "main": "bin/game.js",
+    "tags": [],
+    "scene": { "parcels": ["0,0"], "base": "0,0" },
+    "communications": { "type": "webrtc", "signalling": "https://signalling-01.decentraland.org" },
+    "policy": { "contentRating": "E", "fly": true, "voiceEnabled": true, "blacklist": [], "teleportPosition": "" }
+  },
+  "display": {
+    "title": "buildathon",
+    "favicon": "favicon_asset",
+    "description": "",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "main": "bin/index.js",
+  "owner": "",
+  "scene": { "parcels": ["1,13", "1,14", "1,15", "2,13", "2,14", "2,15", "3,13", "3,14", "3,15"] },
+  "tags": [],
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "cbbf7c73-cbd2-4a9f-807c-27305c9d72ec",
+    "point": { "x": 0, "y": 0 },
+    "rotation": "east",
+    "layout": { "rows": 3, "cols": 3 }
+  },
+  "allowedMediaHostnames": [],
+  "ecs7": true,
+  "runtimeVersion": "7"
+}

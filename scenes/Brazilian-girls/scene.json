@@ -1,15 +1,5 @@
 {
   "contact": { "name": "0x8354c53123f26c1b5008a7920e605f6da0af53b8", "email": "" },
-  "default": {
-    "display": { "title": "interactive-text", "favicon": "favicon_asset" },
-    "owner": "",
-    "contact": { "name": "0x8354c53123f26c1b5008a7920e605f6da0af53b8", "email": "" },
-    "main": "bin/game.js",
-    "tags": [],
-    "scene": { "parcels": ["17,17", "17,18", "17,19", "18,17", "18,18", "18,19", "19,17", "19,18", "19,19"] },
-    "communications": { "type": "webrtc", "signalling": "https://signalling-01.decentraland.org" },
-    "policy": { "contentRating": "E", "fly": true, "voiceEnabled": true, "blacklist": [], "teleportPosition": "" }
-  },
   "display": {
     "title": "buildathon",
     "favicon": "favicon_asset",

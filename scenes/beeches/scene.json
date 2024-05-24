@@ -1,14 +1,5 @@
 {
   "contact": { "name": "0x1dec5f50cb1467f505bb3ddfd408805114406b10", "email": "" },
-  "default": {
-    "display": { "title": "interactive-text", "favicon": "favicon_asset" },
-    "owner": "",
-    "contact": { "name": "0x1dec5f50cb1467f505bb3ddfd408805114406b10", "email": "" },
-    "main": "bin/game.js",
-    "tags": [],
-    "communications": { "type": "webrtc", "signalling": "https://signalling-01.decentraland.org" },
-    "policy": { "contentRating": "E", "fly": true, "voiceEnabled": true, "blacklist": [], "teleportPosition": "" }
-  },
   "display": {
     "title": "Spaghetti madness",
     "favicon": "favicon_asset",

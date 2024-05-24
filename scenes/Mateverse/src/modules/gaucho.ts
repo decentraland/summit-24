@@ -14,7 +14,7 @@ export function setGaucho() {
     { position: Vector3.create(10, 0, 8), rotation: Quaternion.create(0, 0, 0), scale: Vector3.create(1, 1, 1) },
     {
       type: npcLib.NPCType.CUSTOM,
-      model: 'models/Gaucho.glb',
+      model: 'models/Gaucho7.glb',
       //   portrait: { path: 'images/portraits/WearableConnoisseur.png', offsetY: -20, offsetX: -70 },
       onlyETrigger: true,
       //   reactDistance: 0.5,

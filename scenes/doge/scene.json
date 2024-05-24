@@ -1,0 +1,67 @@
+{
+  "contact": {
+    "name": "0xd95a49409529b1ee533c9a1166c9c669f21722e6",
+    "email": ""
+  },
+  "default": {
+    "display": {
+      "title": "interactive-text",
+      "favicon": "favicon_asset"
+    },
+    "owner": "",
+    "contact": {
+      "name": "0xd95a49409529b1ee533c9a1166c9c669f21722e6",
+      "email": ""
+    },
+    "main": "bin/game.js",
+    "tags": [],
+    "scene": {
+      "parcels": ["13,17", "13,18", "13,19", "14,17", "14,18", "14,19", "15,17", "15,18", "15,19"]
+    },
+    "communications": {
+      "type": "webrtc",
+      "signalling": "https://signalling-01.decentraland.org"
+    },
+    "policy": {
+      "contentRating": "E",
+      "fly": true,
+      "voiceEnabled": true,
+      "blacklist": [],
+      "teleportPosition": ""
+    }
+  },
+  "display": {
+    "title": "Doge Memorial",
+    "favicon": "favicon_asset",
+    "description": "",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "main": "bin/index.js",
+  "owner": "",
+  "scene": {
+    "parcels": ["17,13", "17,14", "17,15", "18,13", "18,14", "18,15", "19,13", "19,14", "19,15"]
+  },
+  "tags": [],
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "10393aa5-427b-4054-8b68-fab18b259214",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  "allowedMediaHostnames": [],
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "spawnPoints": [],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  }
+}

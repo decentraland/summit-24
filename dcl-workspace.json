@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "scenes/team-awesome"
+    },
+    {
       "path": "scenes/roads"
     },
     {

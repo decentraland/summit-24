@@ -1,0 +1,33 @@
+{
+  "contact": { "name": "0x1dec5f50cb1467f505bb3ddfd408805114406b10", "email": "" },
+  "default": {
+    "display": { "title": "interactive-text", "favicon": "favicon_asset" },
+    "owner": "",
+    "contact": { "name": "0x1dec5f50cb1467f505bb3ddfd408805114406b10", "email": "" },
+    "main": "bin/game.js",
+    "tags": [],
+    "communications": { "type": "webrtc", "signalling": "https://signalling-01.decentraland.org" },
+    "policy": { "contentRating": "E", "fly": true, "voiceEnabled": true, "blacklist": [], "teleportPosition": "" }
+  },
+  "display": {
+    "title": "Spaghetti madness",
+    "favicon": "favicon_asset",
+    "description": "",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "main": "bin/index.js",
+  "owner": "",
+  "scene": { "parcels": ["17,1", "17,2", "17,3", "18,1", "18,2", "18,3", "19,1", "19,2", "19,3"] },
+  "tags": [],
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "88b67c73-e43a-4787-902b-9acee461e1e4",
+    "point": { "x": 0, "y": 0 },
+    "rotation": "east",
+    "layout": { "rows": 2, "cols": 2 }
+  },
+  "allowedMediaHostnames": [],
+  "ecs7": true,
+  "runtimeVersion": "7"
+}
